@@ -23,5 +23,5 @@ The device ID is kept in each browser's local storage, while the viewed records 
 
 ## Search by website name
 
-The page includes canonical metadata, social previews, and Schema.org website data for the name `VJ Films Uganda`. Search engines still require the site to be publicly deployed at the canonical URL and crawled before visitors can find it by name without typing the full link. After deployment, submit the sitemap at `/sitemap.xml` in Google Search Console and Bing Webmaster Tools.
+The page includes canonical metadata, social previews, and Schema.org website data for the name `VJ Films Uganda`. The public Pages URL is `https://rolandmugagga-arch.github.io/filmz-website/`; submit that URL as a URL-prefix property, verify the HTML file, and submit `/sitemap.xml` in Google Search Console.
 
