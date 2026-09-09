@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rolandmugagga-arch.github.io/Vj-films/sitemap.xml
